@@ -109,7 +109,7 @@
 ---
 
 ## 🌱 Currently Learning
-> Claude, Gemini, Groq SDKs, Agent Swarms, Prompt Engineering for Compliance & Testing Domains.
+> Agentic AI, Agno, RAG Enterprise, Azure AI Foundry, FastAPI
 
 ## ❤️ Interests
 > AI x QA | AI-ML |Rag | Plant Lover | Designing Agents | Drawing
