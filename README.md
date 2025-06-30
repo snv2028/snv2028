@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Swati Vibhute
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Swati+Vibhute!&font=Fira%20Code&size=30&duration=3000&color=36BCF7&center=true)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=swativibhute&color=blue&style=flat-square)
